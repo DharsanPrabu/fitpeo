@@ -169,7 +169,7 @@ const options = {
 
               </div>
               <div className='pl-2 flex cursor-pointer rounded-lg bg-opacity-40 w-48 h-12 ml-1  bg-indigo-300  pt-1  mb-60'>
-                            <img src='/avatar.jpg' alt='Image Two' style={{ width: '25px', height: '25px', borderRadius: '50%', marginRight: '8px' }}className='' />
+                            <img src='./avatar.jpg' alt='Image Two' style={{ width: '25px', height: '25px', borderRadius: '50%', marginRight: '8px' }}className='' />
                             <div>
                               <p className='text-white text-sm '>Evano</p>
                               <p className=' text-gray-400 text-xs   '> Product&nbsp;Manager</p>
@@ -410,7 +410,7 @@ const options = {
                      
                     <td>
                         <div className='pl-2 flex cursor-pointer   ml-1  pt-1 '>
-                            <img src='/w2.jpg' alt='Image Two' style={{ width: '80px', height: '30px' , marginRight: '8px' }} className='rounded-lg' />
+                            <img src='./w2.jpg' alt='Image Two' style={{ width: '80px', height: '30px' , marginRight: '8px' }} className='rounded-lg' />
                             <div>
                                 <p className='text-black-500 font-bold text-sm'>Abstract 3D</p>
                                 <p className='text-gray-400 text-xs pb-2 sm:w-auto w-40'>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
@@ -430,7 +430,7 @@ const options = {
                      
                     <td>
                         <div className='pl-2 flex cursor-pointer    ml-1   pt-1 '>
-                            <img src='/w1.jpg' alt='Image Two' style={{ width: '80px', height: '30px',   marginRight: '8px' }} className='rounded-lg' />
+                            <img src='./w1.jpg' alt='Image Two' style={{ width: '80px', height: '30px',   marginRight: '8px' }} className='rounded-lg' />
                             <div>
                                 <p className='text-black-500 text-sm font-bold'> Sarpents illustration</p>
                                 <p className='text-gray-400 text-xs pb-2 sm:w-auto w-40'>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
